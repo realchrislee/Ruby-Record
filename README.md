@@ -20,5 +20,3 @@ Uses Ruby to generate SQL queries to interact with the database and create assoc
     * #save
 
   * Ruby Record provides single as well as multi-level associations ex. has_one_through
-
-  *
